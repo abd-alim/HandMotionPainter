@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Run the script:
 
 ```bash
-python hand_gesture_drawing.py
+python main.py
 ```
 
 A webcam feed window will open. Perform hand gestures with your index finger and thumb to draw or erase on the screen.
