@@ -1,4 +1,4 @@
-# HandMotionPainter - Hand Gesture Drawing with OpenCV and MediaPipe
+# HandMotionPainter - Virtual Drawing with OpenCV and MediaPipe
 
 This Python script utilizes OpenCV and MediaPipe to enable drawing on a canvas using hand gestures detected from a webcam feed. It allows users to draw lines or erase on a transparent canvas by using their index finger tip. Additionally, drawing starts only when the index finger tip and thumb tip are touching.
 
